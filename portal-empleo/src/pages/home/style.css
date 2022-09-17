@@ -1,0 +1,5 @@
+#img {
+    display: flex;
+    object-fit: cover;
+    object-position: 0px -136px;
+}
