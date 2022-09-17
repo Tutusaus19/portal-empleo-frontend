@@ -4,12 +4,18 @@
     border: 1px solid white;
     justify-content: space-between; 
     box-shadow: 1px 10px 20px #435158;
+    height: 76px;
 }
-.navbar__title {
+.navbar__logo {
     display: flex;
     justify-content: center;
     margin-left: 20px;
-    font-size: medium;
+    align-items: center;
+}
+.navbar__logo__img {
+    display: flex;
+    width: 139px;
+    height: 54px;
 }
 .navbar__buttons{
     display: flex;

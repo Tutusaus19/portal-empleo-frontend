@@ -5,7 +5,7 @@ const Navbar = () => {
      return (
         <nav className='navbar__container'>
             <div className='navbar__logo'>
-                <h2 className='navbar__title'> Kaizen</h2>
+                <img className='navbar__logo__img' src="https://kaizenfmk.com/wp-content/uploads/2019/01/imagenPortada_logo.png" alt="logo-kaizen" />
             </div>
             <div className='navbar__buttons'>
                 <button className='navbar__buttons__signin'> Sign In </button>
