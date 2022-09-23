@@ -1,0 +1,11 @@
+.searchBar {
+    box-sizing: border-box;
+    width: 331px;
+    height: 75px;
+    left: 15px;
+    top: 337px;
+    background: #FFFFFF;
+    border: 1px solid #2ebdbb;
+    border-radius: 349px;
+    text-align: center;
+}
