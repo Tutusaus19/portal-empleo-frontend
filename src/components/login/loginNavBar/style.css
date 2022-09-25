@@ -1,0 +1,21 @@
+.NavBarLogin__logo h2{
+    display: flex;
+}
+.NavBarLogin{
+    display: flex;
+    background-color: #8080801a;
+    justify-content: space-around;
+    align-items: center;
+}
+.NavBarLogin__pages {
+    display: flex;
+    justify-content: space-around;
+}
+.NavBarLogin__pages p {
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+.NavBarLogin__pages2 {
+    text-decoration:none;
+}
