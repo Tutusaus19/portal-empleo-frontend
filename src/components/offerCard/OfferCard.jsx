@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './style.css'
 
-export default function offerCard() {
+export default function OfferCard() {
 
   return (
     <div className='Card'>
@@ -58,9 +59,9 @@ export default function offerCard() {
             </div>
          </div>
          <div className='CardFooter__CTA'>
-            <button className='CardFooter__CTA__button'>
-                ME LO PIDO
-            </button>
+         <Link to='/offer-details' className='CardFooter__CTA__button__link'><button className='CardFooter__CTA__button'>
+                ME LO PIDO 
+            </button></Link>
 
          </div>
 

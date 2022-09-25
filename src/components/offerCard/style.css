@@ -1,7 +1,10 @@
 .Card{
-    border: 1px solid black;
     width: 400px;
     height: 400px;
+    border-radius: 8px;
+    box-shadow: 0 0 4px 0 #d2d9e5;
+    padding: 24px;
+    background-color: #fff;
 }
 .CardContent{
     margin: 20px 10px ;
@@ -86,4 +89,12 @@
     background-color: #FFFF;
     color:#2abebc;
     border: 2px solid #2abebc;
+}
+.CardFooter__CTA__button__link {
+    text-decoration: none;
+    color: #fff;
+}
+.CardFooter__CTA__button__link:hover {
+    background-color: #FFFF;
+    color:#2abebc;
 }

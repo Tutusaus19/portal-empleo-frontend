@@ -5,7 +5,8 @@ import { Link } from 'react-router-dom';
 
 export default function LoginHome() {
     return (
-        <div className='NavBarLogin'>
+
+        <nav className='NavBarLogin'>
             <div className='NavBarLogin__logo'>
                 <h2> Kaizen </h2>
             </div>
@@ -19,6 +20,6 @@ export default function LoginHome() {
                 <BsFillPersonFill />
             </div>
 
-        </div>
+        </nav>
     );
 }

@@ -1,11 +1,10 @@
 import * as React from 'react';
 import LoginNavBar from '../../../components/login/loginNavBar/LoginNavBar';
-import OfferCard from '../../../components/offerCard/OfferCard';
 import './style.css';
 
 export default function LoginHome () {
     return( 
-        <div className='LoginHome'>
+        <div className='OfferDetails'>
             <LoginNavBar />
          <div className='LoginHome__News'> 
             <h2> Nuevas Ofertas</h2>
