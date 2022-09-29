@@ -1,0 +1,39 @@
+.Footer{
+    margin: 48px 10px 10px 25px;
+    display: flex;
+    align-items: center;
+}
+.Footer__Logo img {
+    display: flex;
+    position: relative;
+    width: 124px;
+}
+.Footer__Contact__mobile {
+    display: flex;
+    align-items: center;
+}
+.Footer__Contact__email {
+    display: flex;
+    align-items: center;
+}
+.Footer__Contact__direction {
+    display: flex;
+    align-items: center;
+}
+.Footer__rrss__linkedin img{
+    display: flex;
+    position: relative;
+    width: 20px;
+}
+.Footer__rrss__instagram img {
+    display: flex;
+    position: relative;
+    width: 20px;
+}
+.Footer__rrss__youtube img {
+    display: flex;
+    position: relative;
+    width: 20px;
+}
+
+

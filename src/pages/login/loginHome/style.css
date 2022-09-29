@@ -1,0 +1,29 @@
+.LoginHome__News{
+    border-radius: 8px;
+    width: 100%;
+    box-shadow: 0 0 4px 0 #d2d9e5;
+    padding: 24px;
+    background-color: #fff;
+}
+.LoginHome__News h2 {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.LoginHome__News p {
+    color: #7b91b1;
+}
+.LoginHome__News__Offers{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    
+}
+.LoginHome__RecentlyApplied{
+    border-radius: 8px;
+    width: 100%;
+    box-shadow: 0 0 4px 0 #d2d9e5;
+    padding: 24px;
+    background-color: #fff;
+}
+    
